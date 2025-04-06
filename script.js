@@ -93,8 +93,6 @@ async function americaForecast() {
 
     });
 };
-
-
 async function americaForecast() {
 
     let apiUrl = "https://goweather.xyz/weather/america";
